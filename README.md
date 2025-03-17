@@ -100,3 +100,7 @@ We thank QLatvia's first members Martins Kalis, Maksims Dimitrijevs, Aleksejs Na
 
 We thank the students of [Faculty of Computing](https://www.df.lu.lv) (University of Latvia) attending the quantum programming's meetings on each Friday (Fall 2018) for their comments while working with our notebooks.
 
+
+
+https://qworld.net/workshop-bronze/
+https://gitlab.com/qworld/bronze-qiskit/-/tree/master?ref_type=heads
